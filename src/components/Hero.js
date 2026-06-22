@@ -55,7 +55,7 @@ export default function Hero() {
               <div className="hero-avatar">CS</div>
               <div className="hero-card-info">
                 <span className="hero-card-name">Chintan Savsani</span>
-                <span className="hero-card-sub">Flutter Developer · Rajkot, Gujarat</span>
+                <span className="hero-card-sub">Junior Flutter Developer · Sunray Datalinks · Rajkot</span>
               </div>
             </div>
 

@@ -38,10 +38,10 @@ export default function About() {
           <div className="about-right">
             <h3>Building mobile apps people enjoy using</h3>
             <p>
-              I'm a proactive Flutter developer with an internship at Brands.Live (Ahmedabad) and
-              hands-on experience at Nexon Software Solutions (Rajkot). I specialise in
-              cross-platform mobile development, offline-first business apps, real-time location
-              services, and production-grade mobile ecosystems.
+              I'm a proactive Flutter developer currently at Sunray Datalinks (Rajkot), with prior
+              experience at Nexon Software Solutions and an internship at Brands.Live (Ahmedabad).
+              I specialise in cross-platform mobile development, offline-first business apps,
+              real-time location services, and production-grade mobile ecosystems.
             </p>
             <p>
               Currently pursuing MCA at Noble University (Expected 2026), with a BCA from

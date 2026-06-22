@@ -3,10 +3,28 @@ import './Experience.css';
 const experiences = [
   {
     role: 'Junior Flutter Developer',
+    company: 'Sunray Datalinks Pvt. Ltd.',
+    location: 'Rajkot, Gujarat',
+    period: 'May 2026 – Present',
+    current: true,
+    desc: 'Sunray Datalinks is a Rajkot-based software company delivering ERP solutions, custom business software, and mobile apps for SMEs across manufacturing, logistics, and retail.',
+    points: [
+      'Leading development of HisabMitra — an offline-first Flutter accounting app for Indian SME workflows (Khata, udhar, supplier dues).',
+      'Implemented combined party ledger with debit/credit columns and running balance — similar to desktop billing software like Miracle.',
+      'Designed FIFO payment allocation that auto-applies collections to oldest unpaid invoices per customer or supplier.',
+      'Architected local-first data layer with SQLite (sqflite) and JSON document storage for 10+ entity types; migrated legacy Hive storage without data loss.',
+      'Used Provider for reactive state across 12+ providers covering sales, purchases, payments, ledger, and dashboard.',
+      'Built reusable ledger service merging sales, purchases, payments, and partner transactions chronologically.',
+      'Implemented PDF report generation and responsive UI with NavigationRail on tablet/desktop plus Firebase Auth for secure login.',
+    ],
+    tags: ['Flutter', 'Provider', 'SQLite', 'Firebase Auth', 'PDF Generation', 'Dart'],
+  },
+  {
+    role: 'Junior Flutter Developer',
     company: 'Nexon Software Solutions Pvt. Ltd.',
     location: 'Rajkot, Gujarat',
-    period: 'Feb 2026 – Present',
-    current: true,
+    period: 'Feb 2026 – May 2026',
+    current: false,
     desc: 'Nexon builds white-label mobility and logistics platforms. Flagship products include PayGo (ride-hailing & parcel delivery super-app) and TaxiPlus / Slay (branded variants for regional transport operators).',
     points: [
       'Developed and maintained the PayGo Rider and PayGo Driver Flutter apps from Figma designs to production APKs.',
