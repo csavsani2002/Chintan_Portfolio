@@ -19,8 +19,8 @@ export default function Hero() {
           <h2 className="hero-role">Flutter Developer & Mobile App Specialist</h2>
           <p className="hero-desc">
             Proactive Flutter developer with 4+ months hands-on experience building
-            cross-platform mobile apps — from real-time ride-hailing ecosystems to
-            clean, responsive UIs that real users love.
+            cross-platform mobile apps — from offline-first accounting tools and
+            real-time ride-hailing ecosystems to clean, responsive UIs that real users love.
           </p>
           <div className="hero-actions">
             <button className="btn btn-primary" onClick={() => scrollTo('projects')}>
@@ -38,7 +38,7 @@ export default function Hero() {
             </div>
             <div className="metric-divider" />
             <div className="metric">
-              <span className="metric-num">4</span>
+              <span className="metric-num">5</span>
               <span className="metric-label">Projects Built</span>
             </div>
             <div className="metric-divider" />
@@ -61,8 +61,8 @@ export default function Hero() {
 
             <div className="hero-card-body">
               <p className="hero-card-bio">
-                Specialised in cross-platform mobile development, real-time location services,
-                and production-grade ride-hailing ecosystems.
+                Specialised in cross-platform mobile development, offline-first architectures,
+                real-time location services, and production-grade mobile ecosystems.
               </p>
               <div className="hero-tech-label">Tech Stack</div>
               <div className="hero-tech-grid">

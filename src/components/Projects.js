@@ -3,6 +3,15 @@ import './Projects.css';
 
 const projects = [
   {
+    title: 'Chokho Hisab — Offline Accounting App',
+    desc: 'Offline-first Flutter accounting app for shopkeepers, delivery services, and personal users — localized in English, Gujarati, and Hindi. Profile-based UX covers udhar ledgers, daily delivery swipe logging, cash books, and expense tracking with voice entry and WhatsApp bill sharing. Built on Drift/SQLite (20+ tables), Riverpod, and go_router across 40+ screens with P&L reports and PDF/CSV export.',
+    tags: ['Flutter', 'Riverpod', 'Drift / SQLite', 'go_router', 'Speech-to-Text', 'fl_chart'],
+    category: 'personal',
+    emoji: '📒',
+    live: null,
+    badge: 'Latest',
+  },
+  {
     title: 'PayGo — Rider & Driver Apps',
     desc: 'Production ride-hailing & parcel delivery super-app. Two Flutter apps (Rider + Driver) communicating in real time over WebSockets backed by Firebase.',
     tags: ['Flutter', 'GetX', 'Firebase', 'Google Maps', 'WebSockets', 'Dart'],

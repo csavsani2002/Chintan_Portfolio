@@ -4,13 +4,15 @@ const skills = [
   { name: 'Flutter (Cross-platform)', level: 88 },
   { name: 'Dart', level: 85 },
   { name: 'Firebase (Auth, Firestore, FCM)', level: 82 },
-  { name: 'GetX State Management', level: 80 },
+  { name: 'Riverpod & GetX State Management', level: 80 },
+  { name: 'Drift / SQLite (Offline-First)', level: 78 },
   { name: 'Google Maps SDK & Live Tracking', level: 78 },
   { name: 'REST APIs & WebSockets', level: 75 },
 ];
 
 const tools = [
   'Git / GitHub', 'Figma', 'Agile / Scrum', 'Material Design 3',
+  'go_router', 'Speech-to-Text', 'fl_chart', 'PDF / CSV Export',
   'Java', 'Python', 'Kotlin', 'PHP',
   'OCR APIs', 'Firebase FCM', 'CI/CD', 'Flutter Flavors',
 ];

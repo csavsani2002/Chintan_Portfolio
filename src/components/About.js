@@ -23,7 +23,7 @@ export default function About() {
             </div>
             <div className="about-stats">
               {[
-                { num: '4', label: 'Projects Built' },
+                { num: '5', label: 'Projects Built' },
                 { num: '1', label: 'Internship' },
                 { num: 'MCA', label: 'Noble University' },
                 { num: '40%', label: 'ETA Bug Reduction' },
@@ -40,8 +40,8 @@ export default function About() {
             <p>
               I'm a proactive Flutter developer with an internship at Brands.Live (Ahmedabad) and
               hands-on experience at Nexon Software Solutions (Rajkot). I specialise in
-              cross-platform mobile development, real-time location services, and production-grade
-              ride-hailing ecosystems.
+              cross-platform mobile development, offline-first business apps, real-time location
+              services, and production-grade mobile ecosystems.
             </p>
             <p>
               Currently pursuing MCA at Noble University (Expected 2026), with a BCA from
